@@ -4,7 +4,7 @@ import React from "react";
 import btcLogo from "../Assets/btc.png";
 
 const Home = () => {
-  return <Box bgColor={"blackAlpha.900"} w={"full"} h={"full"} overflow="hidden">
+  return <Box bgColor={"blackAlpha.900"} w={"full"} h={"90vh"} overflow="hidden">
 
     <motion.div style={{
       height: "80vh",
